@@ -1,0 +1,10 @@
+{
+  "name": "iran-radiator-boiler",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive 3D isometric engineering anatomy and fault diagnostic simulator for Iran Radiator combi boilers (L/M/E series).",
+  "scripts": {
+    "build": "node build.mjs && node build.mjs --light"
+  }
+}
